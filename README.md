@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Wikinet AI - Your Knowledge Assistant</title>
+  <title>Heoster's Wikinet AI - Your Knowledge Assistant</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
     :root {
@@ -467,7 +467,7 @@
     <div class="chat-container">
       <div class="chat-header">
         <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" alt="Chatbot">
-        Wikinet AI - Your Knowledge Assistant
+      Heoster's Wikinet AI - Your Knowledge Assistant
       </div>
       <div id="chatbox" class="chat-box"></div>
       <div class="input-area">
@@ -486,7 +486,7 @@
         <a href="https://www.instagram.com/codex._.heoster?igsh=YzljYTk1ODg3Zg==" tittle="Instagram"><i class="fab fa-instagram"></i></a>
         <a href=" https://github.com/Heoster" title="GitHub"><i class="fab fa-github"></i></a>
       </div>
-      <div class="footer-text">© 2025 Wikinet AI. All rights reserved.</div>
+      <div class="footer-text">© 2025 Heoster's Wikinet AI. All rights reserved.</div>
       <div class="made-in-india">
         <span class="saffron">MADE</span>
         <span class="white">in</span>
