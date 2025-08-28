@@ -483,7 +483,7 @@
       <div class="social-links">
         <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
 
-        <a href="https://www.instagram.com/codex._.heoster?igsh=YzljYTk1ODg3Zg==" tittle="Instagram"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.instagram.com/codeex._.heoster" tittle="Instagram"><i class="fab fa-instagram"></i></a>
         <a href=" https://github.com/Heoster" title="GitHub"><i class="fab fa-github"></i></a>
       </div>
       <div class="footer-text">© 2025 Heoster's Wikinet AI. All rights reserved.</div>
